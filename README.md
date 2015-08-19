@@ -1,5 +1,5 @@
-# K-Search - Shoda API Bug Finder
-Find exploit use API Shoda
+# K-Search - Shodan API Bug Finder
+Find exploit use API Shodan
 
 -----------------------------------------------------------------------------
 Install: use pip and easytool install plugins shodan
