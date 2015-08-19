@@ -1,4 +1,4 @@
-# K---Search-Shoda-bug-finder-
+# K-Search - Shoda API Bug Finder
 Find exploit use API Shoda
 
 -----------------------------------------------------------------------------
